@@ -109,7 +109,7 @@ The goal is not only to gain technical knowledge but also to build a strong port
 
 | Day     | Topic                              | Status |
 | ------- | ---------------------------------- | ------ |
-| Day 001 | Python Setup & Environment         | ⬜      |
+| Day 001 | Python Setup & Environment         | ✅      |
 | Day 002 | Variables & Data Types             | ⬜      |
 | Day 003 | Operators                          | ⬜      |
 | Day 004 | Strings                            | ⬜      |
@@ -179,7 +179,7 @@ Projects will be added throughout the journey.
 
 # 📌 Next Milestone
 
-✅ Complete Days 1–10 (Python Fundamentals)
+⬜ Complete Days 1–10 (Python Fundamentals)
 
 ---
 
