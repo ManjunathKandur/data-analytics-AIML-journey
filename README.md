@@ -111,7 +111,7 @@ The goal is not only to gain technical knowledge but also to build a strong port
 | ------- | ---------------------------------- | ------ |
 | Day 001 | Python Setup & Environment         | ✅    |
 | Day 002 | Variables , Data Types & Operators | ✅    | 
-| Day 003 | Strings                            | ⬜    |
+| Day 003 | Strings                            | ✅   |
 | Day 005 | Lists, Tuples, Sets & Dictionaries | ⬜    |
 | ...     | ...                                | ...   | 
 | Day 100 | Final Capstone Project             | ⬜    |
