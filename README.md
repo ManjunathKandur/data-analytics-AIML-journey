@@ -111,9 +111,9 @@ The goal is not only to gain technical knowledge but also to build a strong port
 | ------- | ---------------------------------- | ------ |
 | Day 001 | Python Setup & Environment         | ✅    |
 | Day 002 | Variables , Data Types & Operators | ✅    | 
-| Day 003 | Strings                            | ✅   |
-| Day 005 | Lists, Tuples, Sets & Dictionaries | ⬜    |
-| ...     | ...                                | ...   | 
+| Day 003 | Strings                            | ✅    |
+| Day 004 | Lists, Tuples                      | ✅    |
+| Day 005 |  Sets & Dictionaries               | ⬜    | 
 | Day 100 | Final Capstone Project             | ⬜    |
 
 ---
@@ -165,7 +165,7 @@ Projects will be added throughout the journey.
 
 # 📈 Current Progress
 
-* Days Completed: **2 / 100**
+* Days Completed: **4 / 100**
 
 
 ---
