@@ -123,4 +123,81 @@ for i in range(len(cities)):
 
 print(city)
 
-#
+#Build a Student Marks Management System
+
+marks = []
+
+for i in range(5):
+    mark = int(input(f"Enter Subject {i+1} Marks: "))
+    marks.append(mark) 
+print(marks) #displaying marks
+#-----------------------------------------------------------------------------------------------------------------------
+
+#CALCULATE TOTAL
+print(sum(marks))  #bulit in method
+
+#loop method
+total = 0
+
+for i in marks:
+    total += i
+print(total)
+
+#-----------------------------------------------------------------------------------------------------------------------
+
+#CALCULATE AVERAGE
+
+print(sum(marks)/len(marks)) #bulit in method
+
+#loop method
+total = 0
+
+for i in marks:
+    total += i
+
+print(total/len(marks))
+
+#-----------------------------------------------------------------------------------------------------------------------
+
+#FIND HIGHEST MARKS
+print(max(marks)) #built in method
+
+marks.sort() #sort method
+print(marks[4])
+
+highest = marks[0] #loop method
+for i in marks:
+    if i > highest:
+        highest = i
+print(highest)
+
+#-----------------------------------------------------------------------------------------------------------------------
+
+#FIND LOWEST MARKS
+print(min(marks)) #built in method
+
+marks.sort(reverse=True)#sort method
+print(marks[4])
+
+lowest = marks[0]  #loop method
+for i in marks:
+    if i < lowest:
+        lowest = i
+print(lowest)
+
+#------------------------------------------------------------------------------------------------------------------------
+
+#MARKS IN ASCENDING:
+marks.sort()
+print(marks)
+
+#MARKS IN DESCENDING:
+marks.sort(reverse=True)
+print(marks)
+
+#-----------------------------------------------------------------------------------------------------------------------
+
+#LIST TO TUPLE:
+marks = tuple(marks)
+print(marks)
+
