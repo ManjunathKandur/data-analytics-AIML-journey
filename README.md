@@ -113,7 +113,8 @@ The goal is not only to gain technical knowledge but also to build a strong port
 | Day 002 | Variables , Data Types & Operators | ✅    | 
 | Day 003 | Strings                            | ✅    |
 | Day 004 | Lists, Tuples                      | ✅    |
-| Day 005 |  Sets & Dictionaries               | ⬜    | 
+| Day 005 | Sets & Dictionaries                | ✅    |
+| Day 006 | if,else,elif                       | ✅    |
 | Day 100 | Final Capstone Project             | ⬜    |
 
 ---
