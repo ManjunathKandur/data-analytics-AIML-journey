@@ -115,6 +115,7 @@ The goal is not only to gain technical knowledge but also to build a strong port
 | Day 004 | Lists, Tuples                      | ✅    |
 | Day 005 | Sets & Dictionaries                | ✅    |
 | Day 006 | if,else,elif                       | ✅    |
+| Day 007 | loops                              | ✅    |
 | Day 100 | Final Capstone Project             | ⬜    |
 
 ---
@@ -166,7 +167,7 @@ Projects will be added throughout the journey.
 
 # 📈 Current Progress
 
-* Days Completed: **4 / 100**
+* Days Completed: **7 / 100**
 
 
 ---
