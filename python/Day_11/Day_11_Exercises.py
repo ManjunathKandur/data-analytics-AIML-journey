@@ -158,8 +158,16 @@ for i in string:
 
 print(dict1)
 
-# write a tringle pattern.
+# write a triangle pattern.
 for i in range(6):
     for j in range(i):
         print('*',end='')
     print()
+
+#center triangle
+n = int(input())
+
+for i in range(1, n + 1):
+    spaces = n - i
+    stars = 2 * i - 1
+    print(" " * spaces + "*" * stars)
