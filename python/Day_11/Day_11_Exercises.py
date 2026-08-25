@@ -157,3 +157,9 @@ for i in string:
         dict1[i] = 1
 
 print(dict1)
+
+# write a tringle pattern.
+for i in range(6):
+    for j in range(i):
+        print('*',end='')
+    print()
