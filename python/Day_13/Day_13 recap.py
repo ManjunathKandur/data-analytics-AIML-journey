@@ -268,3 +268,16 @@ print("Average number:", result)
 x = lambda a: a**2
 
 print(x(2))
+
+#second largest number
+num = [27,87,98,76,45,27,46,50,56]
+
+largest_num = 0
+second_largest_num = 0
+
+for i in num:
+    if i > largest_num:
+        second_largest_num = largest_num
+        largest_num = i
+
+print(second_largest_num)
